@@ -1,5 +1,6 @@
 # Polarity-of-speech
 Sentiment analysis of real time speech 
+
 For using this files you need to have python installed in your system
 
 You need to install certain libraries such as 
